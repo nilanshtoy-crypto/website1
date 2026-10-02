@@ -1,0 +1,31 @@
+html{
+	scroll-behavior: smooth;
+}
+body{
+	background-color: #611d1d;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family:f Arial, calibri, sans-serif;
+	margin: 23px;
+	padding: 20px;
+	min-height: 100vh;
+	background-image: url("ut.jpg");
+}
+h1{
+	text-align: center;
+	color: #090101;
+	background-color: rgb(246, 255, 0);
+	border-style: ridge;
+	border-radius: 102%;
+	border-width: 50px;
+	font-size: 100px;
+}
+h2{
+	height: auto;
+	width: auto;
+	align-self: auto;
+}
+p{
+	background-color: aliceblue;
+}
